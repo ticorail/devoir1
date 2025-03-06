@@ -21,5 +21,7 @@ L’utilisateur entre deux chaînes de caractères. Le programme :
 - **Algorithmes et structures de données**  
 
 📌 **Auteur**
-👤   
+👤  Davidson Anis
+👤  Kouyate Yasmine Jawad
+👤  Mbemba Mechack Biyudi
  
